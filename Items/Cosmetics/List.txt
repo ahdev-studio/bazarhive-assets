@@ -1,0 +1,89 @@
+Ponds Face Wash Bright|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/PondsFaceWashBright.png|Ponds:95:Tube:50g,Ponds:165:Tube:100g
+Ponds Face Wash Detox|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/PondsFaceWashDetox.png|Ponds:105:Tube:50g,Ponds:175:Tube:100g
+Ponds Face Wash Daily|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/PondsFaceWashDaily.png|Ponds:79:Tube:50g
+Ponds Face Wash Oil Control|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/PondsFaceWashOilControl.png|Ponds:99:Tube:50g
+Ponds Serum Cream|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/PondsSerumCream.png|Ponds:145:Jar:35g
+Ponds Serum Cream Import|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/PondsSerumCreamImport.png|Ponds:235:Jar:35g Imported
+Ponds Lotion Moist|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/PondsLotionMoist.png|Ponds:145:Bottle:100ml,Ponds:234:Bottle:200ml
+Ponds Gel Hydra|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/PondsGelHydra.png|Ponds:165:Jar:25ml
+
+Glow Face Cream Multi|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/GlowFaceCreamMulti.png|GlowAndLovely:390:Jar:80g,GlowAndLovely:450:Jar:80g Imported
+Glow Face Wash Bright|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/GlowFaceWashBright.png|GlowAndLovely:72:Tube:50g,GlowAndLovely:170:Tube:100g
+Glow Serum SPF30|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/GlowSerumSPF30.png|GlowAndLovely:91:Tube:25g
+Glow Serum SPF50|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/GlowSerumSPF50.png|GlowAndLovely:160:Tube:25g
+Glow Face Serum|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/GlowFaceSerum.png|GlowAndLovely:125:Dropper:7ml,GlowAndLovely:199:Dropper:14ml
+
+Himalaya Neem Face Wash|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/HimalayaNeemFaceWash.png|Himalaya:30:Tube:15ml,Himalaya:225:Tube:100ml,Himalaya:425:Tube:100ml Indian Pack
+Himalaya Aloe Face Wash|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/HimalayaAloeFaceWash.png|Himalaya:140:Tube:50ml
+Himalaya Turmeric Face Wash|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/HimalayaTurmericFaceWash.png|Himalaya:115:Tube:100ml
+Himalaya Orange Face Wash|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/HimalayaOrangeFaceWash.png|Himalaya:109:Tube:100ml
+Himalaya Strawberry Face Wash|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/HimalayaStrawberryFaceWash.png|Himalaya:109:Tube:100ml
+Himalaya Aloe Gel|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/HimalayaAloeGel.png|Himalaya:199:Tube:100ml
+
+Sunsilk Thick Long Shampoo|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/SunsilkThickLongShampoo.png|Sunsilk:175:Bottle:170ml,Sunsilk:430:Bottle:340ml
+Sunsilk Onion Shampoo|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/SunsilkOnionShampoo.png|Sunsilk:399:Bottle:375ml
+Sunsilk Black Shine Shampoo|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/SunsilkBlackShineShampoo.png|Sunsilk:175:Bottle:170ml
+Sunsilk Frequent Shampoo|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/SunsilkFrequentShampoo.png|Sunsilk:1550:Bottle:625ml
+Sunsilk Smooth Shampoo|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/SunsilkSmoothShampoo.png|Sunsilk:1450:Bottle:700ml,Sunsilk:1745:Bottle:625ml
+Sunsilk Volume Shampoo|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/SunsilkVolumeShampoo.png|Sunsilk:399:Bottle:375ml
+
+Lakme Kajal Eyeconic|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/LakmeKajalEyeconic.png|Lakme:385:Stick:0.35gm
+Lakme Eyeliner Glam|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/LakmeEyelinerGlam.png|Lakme:380:Pen:9ml
+
+Beauty Kajal Black|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/BeautyKajalBlack.png|Beauty Glazed:199:Stick:0.6gm
+Beauty Kajal Brown|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/BeautyKajalBrown.png|Beauty Glazed:199:Stick:0.6gm
+Swiss Lipliner Dark|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/SwissLiplinerDark.png|Swiss Beauty:130:Stick:1.6gm
+Swiss Lipliner Cherry|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/SwissLiplinerCherry.png|Swiss Beauty:130:Stick:1.6gm
+Maybelline Kajal Black|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MaybellineKajalBlack.png|Maybelline:370:Stick:0.35gm
+Maybelline Mascara Black|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MaybellineMascaraBlack.png|Maybelline:1500:Tube:10.7ml
+
+Nivea Cream Soft|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/NiveaCreamSoft.png|Nivea:149:Jar:25ml,Nivea:382.5:Jar:50ml,Nivea:720:Jar:100ml,Nivea:1100:Jar:300ml
+Nivea Lip Care|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/NiveaLipCare.png|Nivea:49:Stick:10gm
+Nivea Men Face Wash|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/NiveaMenFaceWash.png|Nivea:400:Tube:100ml
+
+Dove Soap White|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/DoveSoapWhite.png|Dove:140:Bar:135g
+Dove Soap Cream|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/DoveSoapCream.png|Dove:100:Bar:90g
+Dove Shampoo Repair|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/DoveShampooRepair.png|Dove:200:Bottle:170ml,Dove:995:Bottle:330ml,Dove:1250:Bottle:400ml,Dove:555:Bottle:650ml
+Dove Shampoo Therapy|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/DoveShampooTherapy.png|Dove:680:Bottle:650ml
+
+Lux Soap Soft|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/LuxSoapSoft.png|Lux:55:Bar:100g
+Lux Soap Bright|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/LuxSoapBright.png|Lux:59:Bar:90g
+Lux Soap Glow C|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/LuxSoapGlowC.png|Lux:59:Bar:90g,Lux:90:Bar:150g
+
+Parachute Oil Coconut|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/ParachuteOilCoconut.png|Parachute:320:Bottle:350ml,Parachute:499:Bottle:600ml
+Parachute Oil Vitamin|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/ParachuteOilVitamin.png|Parachute:165:Bottle:150ml
+Parachute Oil Aloe|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/ParachuteOilAloe.png|Parachute:215:Bottle:150ml
+Parachute Lotion Skin|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/ParachuteLotionSkin.png|Parachute:199:Bottle:200ml
+
+Johnsons Baby Powder Plant|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/JohnsonsBabyPowderPlant.png|Johnsons:224:Box:50g
+
+Jui Hair Care Oil|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/JuiHairCareOil.png|Jui:220:Bottle:200ml
+Jui Coconut Oil|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/JuiCoconutOil.png|Jui:200:Tin:200ml,Jui:340:Tin:350ml
+Jui Multi-Vitamin Oil|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/JuiMultiVitaminOil.png|Jui:200:Bottle:200ml
+Jui Onion Oil|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/JuiOnionOil.png|Jui:110:Bottle:100ml
+
+Navratna Oil|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/NavratnaOil.png|Navratna:230:Bottle:100ml,Navratna:310:Bottle:300ml
+Dabur Vatika Coconut Oil|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/DaburVatikaCoconutOil.png|Dabur:140:Bottle:75ml,Dabur:210:Bottle:150ml
+
+Meril Baby Oil|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilBabyOil.png|Meril:270:Bottle:100ml
+Meril Baby Lotion|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilBabyLotion.png|Meril:220:Bottle:100ml,Meril:360:Bottle:200ml
+Meril Baby Shampoo|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilBabyShampoo.png|Meril:325:Bottle:200ml
+Meril Baby Cream Soap|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilBabyCreamSoap.png|Meril:89:Bar:75g
+Meril Milk Soap|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilMilkSoap.png|Meril:60:Bar:100g
+Meril Kiwi Soap|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilKiwiSoap.png|Meril:60:Bar:100g
+Meril Vitamin C Soap|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilVitaminCSoap.png|Meril:60:Bar:100g,Meril:90:Bar:150g
+Meril Rosewater|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilRosewater.png|Meril:120:Bottle:60gm
+Meril Glycerine|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilGlycerine.png|Meril:115:Bottle:120gm
+Meril Petroleum Jelly|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilPetroleumJelly.png|Meril:65:Jar:50ml,Meril:110:Jar:100ml
+Meril Tangerine Shampoo|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilTangerineShampoo.png|Meril:300:Bottle:250ml
+Meril Tangerine Conditioner|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/MerilTangerineConditioner.png|Meril:270:Bottle:250ml
+
+Rexona Roll On Passion|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/RexonaRollOnPassion.png|Rexona:240:RollOn:50ml
+Rexona Roll On Invisible|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/RexonaRollOnInvisible.png|Rexona:240:RollOn:50ml
+Rexona Men Roll On Quantum|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/RexonaMenRollOnQuantum.png|Rexona:170:RollOn:50ml
+Rexona Men Roll On Recharge|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/RexonaMenRollOnRecharge.png|Rexona:240:RollOn:50ml
+Rexona Body Spray Aloe|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/RexonaBodySprayAloe.png|Rexona:300:Spray:1Pc
+
+Fogg Spray Cedar|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/FoggSprayCedar.png|Fogg:540:Spray:1Pc
+Fogg Spray Oak|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/FoggSprayOak.png|Fogg:540:Spray:1Pc
+Fogg Spray Pine|Cosmetics|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Cosmetics/FoggSprayPine.png|Fogg:540:Spray:1Pc
