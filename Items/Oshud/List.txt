@@ -1,0 +1,128 @@
+
+Napa 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Napa500.png|Beximco:1.20:Tablet:500mg
+Napa Extra|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaExtra.png|Beximco:2.50:Tablet:500mg+65mg
+Napa Extend|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaExtend.png|Beximco:2.00:Tablet:665mg
+Napa One|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaOne.png|Beximco:2.25:Tablet:1000mg
+Napa Rapid|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaRapid.png|Beximco:1.30:Tablet:500mg
+
+Napa Syrup|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaSyrup.png|Beximco:35.00:Bottle:60ml
+Napa Syrup 100|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaSyrup100.png|Beximco:50.00:Bottle:100ml
+Napa Drop|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaDrop.png|Beximco:20.00:Bottle:15ml
+
+Napa Suppository 125|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaSuppository125.png|Beximco:4.00:Suppository:125mg
+Napa Suppository 250|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaSuppository250.png|Beximco:5.00:Suppository:250mg
+Napa Suppository 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaSuppository500.png|Beximco:8.00:Suppository:500mg
+
+Napa IV Infusion|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NapaIVInfusion.png|Beximco:150.00:Bottle:100ml
+
+Ace 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Ace500.png|Square:1.20:Tablet:500mg
+Ace XR|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AceXR.png|Square:2.00:Tablet:665mg
+Ace Plus|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AcePlus.png|Square:2.50:Tablet:500mg+65mg
+Ace Power|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AcePower.png|Square:2.25:Tablet:1000mg
+
+Ace Syrup|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AceSyrup.png|Square:35.00:Bottle:60ml
+Ace Syrup 100|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AceSyrup100.png|Square:50.00:Bottle:100ml
+
+Ace Suppository 125|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AceSuppository125.png|Square:6.00:Suppository:125mg
+Ace Suppository 250|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AceSuppository250.png|Square:7.00:Suppository:250mg
+Ace Suppository 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AceSuppository500.png|Square:10.00:Suppository:500mg
+
+Amodis 400|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Amodis400.png|Square:1.20:Tablet:500mg
+
+Seclo 20|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Seclo20.png|Square:6.00:Capsule:20mg
+Seclo 40|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Seclo40.png|Square:9.00:Capsule:40mg
+Seclo MUPS|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/SecloMUPS.png|Square:7.00:Tablet:20mg
+
+Seclo Injection 40|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/SecloInjection40.png|Square:95.00:Vial:40mg
+
+Nexum 20|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Nexum20.png|Square:7.00:Capsule:20mg
+Nexum 40|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Nexum40.png|Square:10.00:Capsule:40mg
+
+
+Azinil Suspension|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AzinilSuspension.png|Apex:85.00:Bottle:15ml
+
+Fexo 120|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Fexo120.png|Square:9.00:Tablet:120mg
+Fexo 180|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Fexo180.png|Square:10.00:Tablet:180mg
+
+Fexo Suspension|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/FexoSuspension.png|Square:60.00:Bottle:50ml
+
+Monas 10|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Monas10.png|ACME:16.00:Tablet:10mg
+Monas 5|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Monas5.png|ACME:9.00:Tablet:5mg
+Monas 4|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Monas4.png|ACME:7.00:Tablet:4mg
+
+
+Azinil 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Azinil500.png|Apex:40.00:Tablet:500mg
+
+Accuzith 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Accuzith500.png|DBL:55.00:Tablet:500mg
+
+Novaclav 625|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Novaclav625.png|Popular:32.00:Tablet:500mg+125mg
+
+Ceevit 250|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Ceevit250.png|Square:2.00:Tablet:250mg
+Ceevit 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Ceevit500.png|Square:3.50:Tablet:500mg
+
+Or-saline|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Orsaline.png|SMC:5.00:Sachet:1pc
+
+Amlovas 5|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Amlovas5.png|Popular:5.00:Tablet:5mg
+Amlovas 10|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Amlovas10.png|Popular:8.00:Tablet:10mg
+
+Naspro 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Naspro500.png|Popular:9.03:Tablet:500mg
+
+Acitrin 10|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Acitrin10.png|ACI:3.01:Tablet:10mg
+
+Act 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Act500.png|Ambee:1.20:Tablet:500mg
+
+Aceta 500|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Aceta500.png|Biopharma:1.20:Tablet:500mg
+
+Act Plus|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/ActPlus.png|Ambee:2.00:Tablet:500mg+65mg
+
+Aciflox 200|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Aciflox200.png|ACI:12.00:Tablet:200mg
+
+Actifast 10|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Actifast10.png|SMC:10.00:Tablet:10mg
+
+Actical|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Actical.png|ACI:13.00:Tablet:1200mg+0.25mcg
+
+Acical-D|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AcicalD.png|ACI:8.00:Tablet:500mg+200IU
+
+Acical-M|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/AcicalM.png|ACI:8.00:Tablet:Multi
+
+
+
+
+Losardil 25|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Losardil25.png|Drug International:4.55:Tablet:25mg
+Losardil 25/12.5|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Losardil25125.png|Drug International:5.00:Tablet:37.5mg
+Losardil 50|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Losardil50.png|Drug International:8.00:Tablet:50mg
+Losardil 50/12.5|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Losardil50125.png|Drug International:8.00:Tablet:77.5mg
+Losardil 100|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Losardil100.png|Drug International:12.00:Tablet:100mg
+Losardil 50/12.5|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Losardil100125.png|Drug International:12.00:Tablet:112.5mg
+
+
+
+Ecosprin 75|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Ecosprin75.png|ACME:1.50:Tablet:75mg
+Ecosprin Plus|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Ecosprin150.png|ACME:2.50:Tablet:150mg
+
+Indever 10|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Indever10.png|ACI:2.00:Tablet:10mg
+Indever 40|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Indever40.png|ACI:3.50:Tablet:40mg
+
+Etorix 60|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Etorix60.png|Eskayef:8.00:Tablet:60mg
+Etorix 90|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Etorix90.png|Eskayef:12.00:Tablet:90mg
+
+Atorva 10|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Atorva10.png|Beximco:12.00:Tablet:10mg
+Atorva 20|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Atorva20.png|Beximco:18.00:Tablet:20mg
+
+Rosuva 10|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Rosuva10.png|Square:15.00:Tablet:10mg
+Rosuva 20|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Rosuva20.png|Square:25.00:Tablet:20mg
+
+
+
+Insulatard Vial|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Insulatardvial.png|NovoNordisk:460.00:Vial:10ml
+
+NovoRapid Penfil|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/NovoRapid.png|NovoNordisk:950.00:Pen:3ml
+
+Levemir FlexPen|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Levemirflexpen.png|NovoNordisk:1600.00:Pen:3ml
+
+
+Nofiate 200|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Nofiate200.png|Incepta:7.00:Tablet:200mg
+
+
+Pantonix 20|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Pantonix20.png|Incepta:5.00:Tablet:20mg
+Pantonix 40|Oshud|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Items/Oshud/Pantonix40.png|Incepta:8.00:Tablet:40mg

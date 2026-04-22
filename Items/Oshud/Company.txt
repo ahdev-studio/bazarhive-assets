@@ -1,0 +1,17 @@
+Beximco|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/Beximco.png
+Square|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/Square.png
+ACI|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/ACI.png
+Popular|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/Popular.png
+Healthcare|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/Healthcare.png
+Apex Pharma|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/ApexPharma.png
+DBL|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/DBL.png
+Ambee|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/Ambee.png
+Biopharma|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/Biopharma.png
+
+
+SMC|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/SMC.png
+Drug International|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/DrugInternational.png
+ACME|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/ACME.png
+Eskayef|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/Eskayef.png
+NovoNordisk|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/NovoNordisk.png
+Incepta|https://raw.githubusercontent.com/ahdev-studio/bazarhive-assets/main/Companies/Incepta.png
